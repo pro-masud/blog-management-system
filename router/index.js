@@ -5,6 +5,6 @@ import { createIndexPageController } from "../controllers/createIndexPageControl
 const router = express.Router();
 
 // create home page router here
-router.get("/", createIndexPageController);
+// router.get("/", createIndexPageController);
 // export default router here
 export default router;
